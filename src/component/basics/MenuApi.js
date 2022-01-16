@@ -12,7 +12,7 @@ const Menu=[
     },
     {
         id: 2,
-        image: "./Restaurant-menu/images/allupakoida.jpg",
+        image: "./Restaurant-menu/public/images/allupakoida.jpg",
         name: "Aloo Pakoda",
         category: "Starters n Snacks",
         price: "Rs 40",
