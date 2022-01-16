@@ -21,7 +21,7 @@ const Menu=[
     },
     {
         id: 3,
-        image: "./Restaurant-menu/images/poha.jpg",
+        image: "./images/poha.jpg",
         name: "Poha",
         category: "Starters n Snacks",
         price: "Rs 50",
