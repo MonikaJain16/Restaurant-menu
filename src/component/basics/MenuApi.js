@@ -4,7 +4,7 @@
 const Menu=[
     {
         id: 1,
-        image: "./build/images/White-Sauce-Pasta.jpg",
+        image: "./restaurant-menu/public/images/samosa.jpg",
         name: "Plain Maggie",
         category: "Starters n Snacks",
         price: "Rs 40",
@@ -12,7 +12,7 @@ const Menu=[
     },
     {
         id: 2,
-        image: "/Restaurant-menu/public/images/allupakoida.jpg",
+        image: "https://github.com/MonikaJain16/Restaurant-menu/blob/master/public/images/Aloo-Paratha.jpg?raw=true",
         name: "Aloo Pakoda",
         category: "Starters n Snacks",
         price: "Rs 40",
