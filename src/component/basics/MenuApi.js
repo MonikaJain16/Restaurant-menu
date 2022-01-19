@@ -4,7 +4,7 @@
 const Menu=[
     {
         id: 1,
-        image: "./restaurant-menu/public/images/samosa.jpg",
+        image: "images/samosa.jpg",
         name: "Plain Maggie",
         category: "Starters n Snacks",
         price: "Rs 40",
