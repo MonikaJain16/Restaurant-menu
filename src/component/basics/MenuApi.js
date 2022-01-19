@@ -12,7 +12,7 @@ const Menu=[
     },
     {
         id: 2,
-        image: "./Restaurant-menu/images/allupakoida.jpg",
+        image: "/Restaurant-menu/public/images/allupakoida.jpg",
         name: "Aloo Pakoda",
         category: "Starters n Snacks",
         price: "Rs 40",
@@ -21,7 +21,7 @@ const Menu=[
     },
     {
         id: 3,
-        image: "./Restaurant-menu/images/poha.jpg",
+        image: "./blob/master/public/images/poha.jpg",
         name: "Poha",
         category: "Starters n Snacks",
         price: "Rs 50",
