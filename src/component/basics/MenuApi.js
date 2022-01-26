@@ -4,7 +4,7 @@
 const Menu=[
     {
         id: 1,
-        image: "./Restaurant-menu/images/maggi_1.jpg",
+        image: "./Restaurant-menu/master/public/images/maggi_1.jpg",
         name: "Plain Maggie",
         category: "Starters n Snacks",
         price: "Rs 40",
@@ -21,7 +21,7 @@ const Menu=[
     },
     {
         id: 3,
-        image: "./Restaurant-menu/images/poha.jpg",
+        image: "./Restaurant-menu/master/public/images/poha.jpg",
         name: "Poha",
         category: "Starters n Snacks",
         price: "Rs 50",
@@ -31,7 +31,7 @@ const Menu=[
     },
     {
         id: 4,
-        image: "./Restaurant-menu/images/idli.jpg",
+        image: "./Restaurant-menu/master/public/images/idli.jpg",
         name: "Idli",
         category: "South-Indian",
         price: "Rs 70",
@@ -41,7 +41,7 @@ const Menu=[
     },
     {
         id: 5,
-        image: "./Restaurant-menu/images/upma.jpg",
+        image: "./Restaurant-menu/master/public/images/upma.jpg",
         name: "Upma",
         category: "South-Indian",
         price: "Rs 30",
