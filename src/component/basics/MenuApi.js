@@ -440,7 +440,7 @@ const Menu=[
     },  
     {
         id: 49,
-        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/veg-pulao.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/Paneer-butter-masala.jpg",
         name: "Paneer Butter Masala",
         category: "Curries",
         price: "Rs 220",
@@ -448,7 +448,7 @@ const Menu=[
     },  
     {
         id: 50,
-        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/veg-pulao.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/Kadhai-Paneer.jpg",
         name: "Kadhai Paneer",
         category: "Curries",
         price: "Rs 200",
@@ -456,7 +456,7 @@ const Menu=[
     },  
     {
         id: 51,
-        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/veg-pulao.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/aloo-gobi.jpg",
         name: "Aloo Gobi",
         category: "Curries",
         price: "Rs 150",
@@ -464,7 +464,7 @@ const Menu=[
     },  
     {
         id: 52,
-        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/veg-pulao.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/dal-makhani.jpg",
         name: "Dal Makhani",
         category: "Curries",
         price: "Rs 240",
@@ -472,7 +472,7 @@ const Menu=[
     },  
     {
         id: 53,
-        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/veg-pulao.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/Dal-Fry.jpg",
         name: "Dal Fry",
         category: "Curries",
         price: "Rs 180",
