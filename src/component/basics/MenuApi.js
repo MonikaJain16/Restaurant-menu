@@ -4,7 +4,7 @@
 const Menu=[
     {
         id: 1,
-        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/maggi_1.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/Maggi_1.jpg",
         name: "Plain Maggie",
         category: "Starters n Snacks",
         price: "Rs 40",
@@ -239,7 +239,7 @@ const Menu=[
     },
     {
         id: 26,
-        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/white-sauce-pasta.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/White-Sauce-Pasta.jpg",
         name: "White Sauce Pasta",
         category: "Pizza n Pastas",
         price: "Rs 180",
@@ -373,7 +373,7 @@ const Menu=[
     },  
     {
         id: 41,
-        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/pav-bhaji.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/Pav-Bhaji.jpg",
         name: "Pav Bhaji",
         category: "Starters n Snacks",
         price: "Rs 140",
@@ -408,7 +408,7 @@ const Menu=[
     },  
     {
         id: 45,
-        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/tandoori_roti.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/Tandoori_Roti.jpg",
         name: "Tandoori Roti",
         category: "Bread",
         price: "Rs 30",
