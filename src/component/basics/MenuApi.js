@@ -4,7 +4,7 @@
 const Menu=[
     {
         id: 1,
-        image: "./Restaurant-menu/master/public/images/maggi_1.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/maggi_1.jpg",
         name: "Plain Maggie",
         category: "Starters n Snacks",
         price: "Rs 40",
@@ -12,7 +12,7 @@ const Menu=[
     },
     {
         id: 2,
-        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/Aloo-Paratha.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/allupakoida.jpg",
         name: "Aloo Pakoda",
         category: "Starters n Snacks",
         price: "Rs 40",
@@ -21,7 +21,7 @@ const Menu=[
     },
     {
         id: 3,
-        image: "./Restaurant-menu/master/public/images/poha.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/poha.jpg",
         name: "Poha",
         category: "Starters n Snacks",
         price: "Rs 50",
@@ -31,7 +31,7 @@ const Menu=[
     },
     {
         id: 4,
-        image: "./Restaurant-menu/master/public/images/idli.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/idli.jpg",
         name: "Idli",
         category: "South-Indian",
         price: "Rs 70",
@@ -41,7 +41,7 @@ const Menu=[
     },
     {
         id: 5,
-        image: "./Restaurant-menu/master/public/images/upma.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/upma.jpg",
         name: "Upma",
         category: "South-Indian",
         price: "Rs 30",
@@ -52,7 +52,7 @@ const Menu=[
     },
     {
         id: 6,
-        image: "./Restaurant-menu/images/Aloo-Paratha.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/Aloo-Paratha.jpg",
         name: "Aloo Paratha",
         category: "Bread",
         price: "Rs 60",
@@ -62,7 +62,7 @@ const Menu=[
     },
     {
         id: 7,
-        image: "./Restaurant-menu/images/cheese_maggi.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/cheese_maggi.jpg",
         name: "Cheesey Maggi",
         category: "Starters n Snacks",
         price: "Rs 70",
@@ -72,7 +72,7 @@ const Menu=[
     },
     {
         id: 8,
-        image: "./Restaurant-menu/images/maggie-veg.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/maggie-veg.jpg",
         name: "Vegetable Maggi",
         category: "Starters n Snacks",
         price: "Rs 50",
@@ -82,7 +82,7 @@ const Menu=[
     },
     {
         id: 9,
-        image: "./Restaurant-menu/images/paneer-pakora.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/paneer-pakora.jpg",
         name: "Paneer Pakoda",
         category: "Starters n Snacks",
         price: "Rs 80",
@@ -91,7 +91,7 @@ const Menu=[
     },
     {
         id: 10,
-        image: "./Restaurant-menu/images/french-fries.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/french-fries.jpg",
         name: "French Fries",
         category: "Starters n Snacks",
         price: "Rs 100",
@@ -100,7 +100,7 @@ const Menu=[
     },
     {
         id: 11,
-        image: "./Restaurant-menu/images/cold-coffee.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/cold-coffee.jpg",
         name: "Cold Coffee",
         category: "Beverages",
         price: "Rs 150",
@@ -110,7 +110,7 @@ const Menu=[
     },
     {
         id: 12,
-        image: "./Restaurant-menu/images/tomato_soup.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/tomato_soup.jpg",
         name: "Tomato Soup",
         category: "Soup",
         price: "Rs 160",
@@ -119,7 +119,7 @@ const Menu=[
     },
     {
         id: 13,
-        image: "./Restaurant-menu/images/veg-manchow-soup.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/veg-manchow-soup.jpg",
         name: "Manchow Soup",
         category: "Soup",
         price: "Rs 200",
@@ -128,7 +128,7 @@ const Menu=[
     },
     {
         id: 14,
-        image: "./Restaurant-menu/images/hot_n_sour_soup.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/hot_n_sour_soup.jpg",
         name: "Hot & Sour Soup",  
         category: "Soup",
         price: "Rs 160",
@@ -138,7 +138,7 @@ const Menu=[
     },
     {
         id: 15,
-        image: "./Restaurant-menu/images/aloo_dum_biryani.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/aloo_dum_biryani.jpg",
         name: "Aloo Dum Biryani",
         category: "Rice",
         price: "Rs 220",
@@ -147,7 +147,7 @@ const Menu=[
     },
     {
         id: 16,
-        image: "./Restaurant-menu/images/paneer_dum_biryani.webp",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/paneer_dum_biryani.webp",
         name: "Veg Paneer Biryani",
         category: "Rice",
         price: "Rs 280",
@@ -156,7 +156,7 @@ const Menu=[
     },
     {
         id: 17,
-        image: "./Restaurant-menu/images/vegetable-dum-biryani.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/vegetable-dum-biryani.jpg",
         name: "Mix Veg Biryani",
         category: "Rice",
         price: "Rs 250",
@@ -165,7 +165,7 @@ const Menu=[
     },
     {
         id: 18,
-        image: "./Restaurant-menu/images/lemon-coriander-soup.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/lemon-coriander-soup.jpg",
         name: "Lemon coriander",
         category: "Soup",
         price: "Rs 120",
@@ -175,7 +175,7 @@ const Menu=[
     },
     {
         id: 19,
-        image: "./Restaurant-menu/images/coffee.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/coffee.jpg",
         name: "Coffee",
         category: "Beverages",
         price: "Rs 120",
@@ -184,7 +184,7 @@ const Menu=[
     },
     {
         id: 20,
-        image: "./Restaurant-menu/images/kadak-tea.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/kadak-tea.jpg",
         name: "Special Tea",
         category: "Beverages",
         price: "Rs 60",
@@ -193,7 +193,7 @@ const Menu=[
     },
     {
         id: 21,
-        image: "./Restaurant-menu/images/hot_chocolate.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/hot_chocolate.jpg",
         name: "Hot Chocolate",
         category: "Beverages",
         price: "Rs 150",
@@ -202,7 +202,7 @@ const Menu=[
     },
     {
         id: 22,
-        image: "./Restaurant-menu/images/iced_tea.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/iced_tea.jpg",
         name: "Iced Tea",
         category: "Beverages",
         price: "Rs 90",
@@ -210,7 +210,7 @@ const Menu=[
     },
     {
         id: 23,
-        image: "./Restaurant-menu/images/veg_pizza.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/veg_pizza.jpg",
         name: "Veg Pizza",
         category: "Pizza n Pastas",
         price: "Rs 260",
@@ -220,7 +220,7 @@ const Menu=[
     },
     {
         id: 24,
-        image: "./Restaurant-menu/images/paneer_pizza.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/paneer_pizza.jpg",
         name: "Paneer Pizza",
         category: "Pizza n Pastas",
         price: "Rs 300",
@@ -230,7 +230,7 @@ const Menu=[
     },
     {
         id: 25,
-        image: "./Restaurant-menu/images/margherita_pizza.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/margherita_pizza.jpg",
         name: "Margherita Pizza",
         category: "Pizza n Pastas",
         price: "Rs 200",
@@ -239,7 +239,7 @@ const Menu=[
     },
     {
         id: 26,
-        image: "./Restaurant-menu/images/white-sauce-pasta.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/white-sauce-pasta.jpg",
         name: "White Sauce Pasta",
         category: "Pizza n Pastas",
         price: "Rs 180",
@@ -248,7 +248,7 @@ const Menu=[
     },
     {
         id: 27,
-        image: "./Restaurant-menu/images/red_sauce_pasta.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/red_sauce_pasta.jpg",
         name: "Red Sauce Pasta",
         category: "Pizza n Pastas",
         price: "Rs 180",
@@ -257,7 +257,7 @@ const Menu=[
     },
     {
         id: 28,
-        image: "./Restaurant-menu/images/pink_sauce_pasta.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/pink_sauce_pasta.jpg",
         name: "Pink Sauce Pasta",
         category: "Pizza n Pastas",
         price: "Rs 190",
@@ -266,7 +266,7 @@ const Menu=[
     },
     {
         id: 29,
-        image: "./Restaurant-menu/images/cheese_masala_dosa.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/cheese_masala_dosa.jpg",
         name: "Cheesee Masala Dosa",
         category: "South-Indian",
         price: "Rs 90",
@@ -275,7 +275,7 @@ const Menu=[
     },
     {
         id: 30,
-        image: "./Restaurant-menu/images/plain_dosa.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/plain_dosa.jpg",
         name: "Ghee Roast Dosa",
         category: "South-Indian",
         price: "Rs 50",
@@ -284,7 +284,7 @@ const Menu=[
     },
     {
         id: 31,
-        image: "./Restaurant-menu/images/masala_dosa.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/masala_dosa.jpg",
         name: "Masala Dosa",
         category: "South-Indian",
         price: "Rs 70",
@@ -293,7 +293,7 @@ const Menu=[
     },
     {
         id: 32,
-        image: "./Restaurant-menu/images/pesto_pasta.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/pesto_pasta.jpg",
         name: "Pesto Pasta",
         category: "Pizza n Pastas",
         price: "Rs 200",
@@ -302,7 +302,7 @@ const Menu=[
     },
     {
         id: 33,
-        image: "./Restaurant-menu/images/medu-wada.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/medu-wada.jpg",
         name: "Medu Wada",
         category: "South-Indian",
         price: "Rs 60",
@@ -311,7 +311,7 @@ const Menu=[
     },
     {
         id: 34,
-        image: "./Restaurant-menu/images/Vegetable-Fried-Rice.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/Vegetable-Fried-Rice.jpg",
         name: "Chinese Fried Rice",
         category: "Rice",
         price: "Rs 100",
@@ -320,7 +320,7 @@ const Menu=[
     },
     {
         id: 35,
-        image: "./Restaurant-menu/images/tandoori_momo.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/tandoori_momo.jpg",
         name: "Tandoori Momo",
         category: "Starters n Snacks",
         price: "Rs 180",
@@ -330,7 +330,7 @@ const Menu=[
     },  
     {
         id: 36,
-        image: "./Restaurant-menu/images/momo.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/momo.jpg",
         name: "Steamed Momo",
         category: "Starters n Snacks",
         price: "Rs 120",
@@ -339,7 +339,7 @@ const Menu=[
     },  
     {
         id: 37,
-        image: "./Restaurant-menu/images/veg-pulao.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/veg-pulao.jpg",
         name: "Veg Pulao",
         category: "Rice",
         price: "Rs 130",
@@ -347,7 +347,7 @@ const Menu=[
     },  
     {
         id: 38,
-        image: "./Restaurant-menu/images/fried-momos.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/fried-momos.jpg",
         name: "Fried Momo",
         category: "Starters n Snacks",
         price: "Rs 140",
@@ -356,7 +356,7 @@ const Menu=[
     },  
     {
         id: 39,
-        image: "./Restaurant-menu/images/chole_bhatura.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/chole_bhatura.jpg",
         name: "Chola Bhatura",
         category: "Starters n Snacks",
         price: "Rs 120",
@@ -365,7 +365,7 @@ const Menu=[
     },  
     {
         id: 40,
-        image: "./Restaurant-menu/images/crispy-corn.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/crispy-corn.jpg",
         name: "Crispy Corn",
         category: "Starters n Snacks",
         price: "Rs 180",
@@ -373,7 +373,7 @@ const Menu=[
     },  
     {
         id: 41,
-        image: "./Restaurant-menu/images/pav-bhaji.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/pav-bhaji.jpg",
         name: "Pav Bhaji",
         category: "Starters n Snacks",
         price: "Rs 140",
@@ -383,7 +383,7 @@ const Menu=[
     },  
     {
         id: 42,
-        image: "./Restaurant-menu/images/samosa.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/samosa.jpg",
         name: "Samosa",
         category: "Starters n Snacks",
         price: "Rs 40",
@@ -392,7 +392,7 @@ const Menu=[
     },  
     {
         id: 43,
-        image: "./Restaurant-menu/images/naan.cms",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/naan.cms",
         name: "Naan",
         category: "Bread",
         price: "Rs 40",
@@ -400,7 +400,7 @@ const Menu=[
     },  
     {
         id: 44,
-        image: "./Restaurant-menu/images/puri.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/puri.jpg",
         name: "Puri",
         category: "Bread",
         price: "Rs 10",
@@ -408,7 +408,7 @@ const Menu=[
     },  
     {
         id: 45,
-        image: "./Restaurant-menu/images/tandoori_roti.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/tandoori_roti.jpg",
         name: "Tandoori Roti",
         category: "Bread",
         price: "Rs 30",
@@ -416,7 +416,7 @@ const Menu=[
     },  
     {
         id: 46,
-        image: "./Restaurant-menu/images/fulka.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/fulka.jpg",
         name: "Fulka",
         category: "Bread",
         price: "Rs 10",
@@ -424,7 +424,7 @@ const Menu=[
     },  
     {
         id: 47,
-        image: "./Restaurant-menu/images/kulcha.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/kulcha.jpg",
         name: "Kulcha",
         category: "Bread",
         price: "Rs 70",
@@ -432,7 +432,7 @@ const Menu=[
     },  
     {
         id: 48,
-        image: "./Restaurant-menu/images/paratha.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/paratha.jpg",
         name: "Paratha",
         category: "Bread",
         price: "Rs 30",
@@ -440,7 +440,7 @@ const Menu=[
     },  
     {
         id: 49,
-        image: "./Restaurant-menu/images/veg-pulao.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/veg-pulao.jpg",
         name: "Paneer Butter Masala",
         category: "Curries",
         price: "Rs 220",
@@ -448,7 +448,7 @@ const Menu=[
     },  
     {
         id: 50,
-        image: "./Restaurant-menu/images/veg-pulao.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/veg-pulao.jpg",
         name: "Kadhai Paneer",
         category: "Curries",
         price: "Rs 200",
@@ -456,7 +456,7 @@ const Menu=[
     },  
     {
         id: 51,
-        image: "./Restaurant-menu/images/veg-pulao.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/veg-pulao.jpg",
         name: "Aloo Gobi",
         category: "Curries",
         price: "Rs 150",
@@ -464,7 +464,7 @@ const Menu=[
     },  
     {
         id: 52,
-        image: "./Restaurant-menu/images/veg-pulao.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/veg-pulao.jpg",
         name: "Dal Makhani",
         category: "Curries",
         price: "Rs 240",
@@ -472,7 +472,7 @@ const Menu=[
     },  
     {
         id: 53,
-        image: "./Restaurant-menu/images/veg-pulao.jpg",
+        image: "https://raw.githubusercontent.com/MonikaJain16/Restaurant-menu/master/public/images/veg-pulao.jpg",
         name: "Dal Fry",
         category: "Curries",
         price: "Rs 180",
